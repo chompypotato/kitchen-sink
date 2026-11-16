@@ -1,6 +1,6 @@
 # kitchen-sink
 
-A lightweight Isolated Web App (IWA) utility for running an isolated iframe on ChromeOS.
+A lightweight Isolated Web App (IWA) utility for running an isolated iframe on ChromeOS. Can unblock most sites on school Chromebooks.
 
 ## Installation
 
